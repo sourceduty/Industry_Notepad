@@ -15,7 +15,7 @@ The program's design prioritizes ease of use and adaptability. With industry-spe
 #
 ### Related Links
 
-[Notepad](https://github.com/sourceduty/Notepad)
+[Sourceduty Notepad](https://github.com/sourceduty/Sourceduty_Notepad)
 <br>
 [Sourceduty OS](https://github.com/sourceduty/Sourceduty_OS)
 
