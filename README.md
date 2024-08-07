@@ -18,6 +18,8 @@ The program's design prioritizes ease of use and adaptability. With industry-spe
 [Sourceduty Notepad](https://github.com/sourceduty/Sourceduty_Notepad)
 <br>
 [Sourceduty OS](https://github.com/sourceduty/Sourceduty_OS)
+<br>
+[Travel Notepad](https://github.com/sourceduty/Travel_Notepad)
 
 ***
 Copyright (C) 2024, Sourceduty 
